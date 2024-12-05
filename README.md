@@ -3,6 +3,8 @@
 
 - query_2_and_3.sql has the queries requested. The wording in request for query 3 was a bit confusing. If the query provided in this file doesn't answer the request, then it could be answered directly from querying the model in query_1/session_summary.sql
 
+- The bonus task is answered in Bonus.pdf
+
 - **At the top of each file there's a couple of notes about the model.**
 
 - Since dbt usage is assumed:
